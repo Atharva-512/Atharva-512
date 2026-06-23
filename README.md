@@ -1,14 +1,13 @@
 # Hi 👋, I'm Atharva Rahul Korwar
 
-### Aspiring Data Engineer | Azure • Databricks • Spark • Kafka • Airflow • SQL
+### Data Engineering Enthusiast | Azure • Databricks • Spark • Kafka • Airflow • SQL
 
-Building scalable ETL/ELT pipelines, cloud-native data platforms, and real-time analytics solutions.
-
+Building scalable ETL/ELT pipelines, cloud-native data platforms and real-time analytics solutions.
 ---
 
 ## 🚀 About Me
 
-- 🎯 Aspiring Data Engineer passionate about modern data platforms
+- 🎯 Building cloud-native data pipelines, real-time streaming systems and analytics solutions using Azure, Databricks, Spark, Kafka and SQL.
 - ☁️ Hands-on experience with Azure, Databricks, Spark, Kafka, Airflow and SQL
 - 📊 Strong foundation in Data Analytics, BI and Data Visualization
 - 💻 Software Engineering background with Java, Spring Boot and React
@@ -39,18 +38,17 @@ Building scalable ETL/ELT pipelines, cloud-native data platforms, and real-time 
 
 ## 📌 Featured Projects
 
-🔹 Azure E-Commerce Data Pipeline
+🔹 [Azure E-Commerce Data Pipeline](repo-link)
 
-🔹 Retail Supply Chain Data Pipeline
+🔹 [Retail Supply Chain Data Pipeline](repo-link)
 
-🔹 Real-Time Financial Transaction Monitoring
+🔹 [Real-Time Financial Monitoring](repo-link)
 
-🔹 Retail Sales Analytics & BI
+🔹 [Customer Segmentation Analytics](repo-link)
 
-🔹 Customer Segmentation Analytics
+🔹 [Retail Sales Analytics](repo-link)
 
-🔹 Smart Incident Management System
-
+🔹 [HR Workforce Analytics](repo-link)
 ---
 
 ## 📊 GitHub Statistics
