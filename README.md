@@ -1,93 +1,73 @@
-# Hi, I'm Atharva Rahul Korwar 👋
+# Hi 👋, I'm Atharva Rahul Korwar
 
 ### Aspiring Data Engineer | Azure • Databricks • Spark • Kafka • Airflow • SQL
 
-Building scalable data platforms, cloud-native ETL/ELT pipelines, and real-time analytics systems that transform raw data into business value.
+Building scalable ETL/ELT pipelines, cloud-native data platforms, and real-time analytics solutions.
 
 ---
 
 ## 🚀 About Me
 
-I am a Computer Engineering graduate with a strong interest in Data Engineering and Analytics. My focus lies in designing modern data pipelines, distributed processing systems, and cloud-based analytics solutions using Azure, Spark, Kafka, Airflow, SQL, and Python.
-
-Through hands-on projects, I have built end-to-end ETL/ELT pipelines, streaming data solutions, business intelligence platforms, and enterprise-grade software systems. I enjoy solving data challenges, optimizing workflows, and turning complex datasets into meaningful insights.
-
----
-
-## 🎯 Current Focus
-
-- Building scalable Data Engineering solutions
-- Cloud-native Data Platforms on Azure
-- Real-Time Data Streaming with Kafka & Spark
-- Data Warehousing & Analytics Engineering
-- Distributed Data Processing Systems
-- Business Intelligence & Data Visualization
+- 🎯 Aspiring Data Engineer passionate about modern data platforms
+- ☁️ Hands-on experience with Azure, Databricks, Spark, Kafka, Airflow and SQL
+- 📊 Strong foundation in Data Analytics, BI and Data Visualization
+- 💻 Software Engineering background with Java, Spring Boot and React
+- 📍 Pune, India
 
 ---
 
-## 🏗 Featured Projects
-
-### ☁️ Azure E-Commerce Data Pipeline
-End-to-End Azure Data Engineering Pipeline using Azure Data Factory, Databricks, ADLS Gen2, PySpark and Synapse Analytics following Medallion Architecture principles.
-
-### 🔄 Retail Supply Chain Data Pipeline
-Production-style ETL pipeline leveraging Apache Airflow, PySpark and SQL for automated ingestion, transformation and analytics.
-
-### ⚡ Real-Time Financial Transaction Monitoring
-Kafka and Spark Structured Streaming based platform for real-time transaction processing, monitoring and anomaly detection.
-
-### 📊 Retail Sales Analytics & Business Intelligence
-Business Intelligence platform delivering actionable insights using SQL, Python, Power BI and Excel.
-
-### 🎯 Customer Segmentation & Marketing Analytics
-Customer segmentation, CLV analysis and marketing intelligence using SQL, Tableau, Python and Machine Learning.
-
-### 💻 Smart Incident Management System
-Java Spring Boot based incident management platform featuring workflow automation, escalation mechanisms and REST APIs.
-
----
-
-## 🛠 Technology Stack
+## 🛠 Tech Stack
 
 ### Data Engineering
-`Azure Data Factory` `Databricks` `ADLS Gen2` `Apache Spark`
-`PySpark` `Apache Kafka` `Apache Airflow`
-`SQL` `Data Warehousing` `ETL/ELT`
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
+![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow)
 
-### Data Analytics
-`Power BI` `Tableau` `Excel`
-`Python` `Pandas` `NumPy`
-`Data Visualization` `Business Intelligence`
+### Analytics
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 
 ### Software Engineering
-`Java`
-`Spring Boot`
-`REST APIs`
-`MySQL`
-`React.js`
-`Node.js`
-`Git & GitHub`
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
 ---
 
-## 📈 GitHub Goals – 2026
+## 📌 Featured Projects
 
-- Build Production-Ready Data Engineering Projects
-- Deepen Expertise in Azure Data Services
-- Master Streaming Architectures
-- Contribute to Open Source
-- Transition into a Full-Time Data Engineering Role
+🔹 Azure E-Commerce Data Pipeline
+
+🔹 Retail Supply Chain Data Pipeline
+
+🔹 Real-Time Financial Transaction Monitoring
+
+🔹 Retail Sales Analytics & BI
+
+🔹 Customer Segmentation Analytics
+
+🔹 Smart Incident Management System
 
 ---
 
-## 🎓 Education
+## 📊 GitHub Statistics
 
-**Bachelor of Engineering (Computer Engineering)**  
-Dhole Patil College of Engineering, Pune
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Atharva-512&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva-512&layout=compact&theme=github_dark)
 
 ---
 
-## 🤝 Let's Connect
+## 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Atharva-512&theme=github-dark)
+
+---
+
+## 🤝 Connect With Me
 
 💼 LinkedIn  
 https://www.linkedin.com/in/atharvakorwar51237/
@@ -97,7 +77,3 @@ atharvakorwar51237@gmail.com
 
 🌐 GitHub  
 https://github.com/Atharva-512
-
----
-
-> “Turning data into scalable systems, meaningful insights and business impact.”
