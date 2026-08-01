@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Atharva Rahul Korwar</h1>
+<h1 align="center">Atharva Rahul Korwar</h1>
 
 <h3 align="center">
-Data Engineer | Azure • Databricks • Spark • Kafka • Airflow • SQL
+Data Engineer • Data & Analytics Engineer
 </h3>
 
 <p align="center">
-Building scalable ETL/ELT pipelines, cloud-native data platforms and real-time analytics solutions.
+Building scalable cloud-native data platforms, modern ELT pipelines, and analytics solutions.
 </p>
 
 <p align="center">
@@ -15,73 +15,94 @@ Building scalable ETL/ELT pipelines, cloud-native data platforms and real-time a
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Data+Engineer;Azure+%7C+Databricks+%7C+Spark+%7C+Kafka;Building+Scalable+Data+Pipelines;Real-Time+Data+Processing+Systems;Business+Intelligence+%26+Analytics" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=900&lines=Data+Engineer;Cloud+Data+Platforms;Scalable+ELT+Pipelines;Business+Intelligence+%26+Analytics" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- Building end-to-end Data Engineering projects on Azure ecosystem
-- Hands-on with Azure Data Factory, Databricks, ADLS Gen2 and Synapse Analytics
-- Experience in Spark, Kafka, Airflow, SQL and Python
-- Strong foundation in Data Analytics, Business Intelligence and Dashboarding
-- Software Engineering background with Java, Spring Boot and React
-- Actively seeking Data Engineering opportunities
+I'm a Computer Engineering graduate passionate about designing scalable data platforms that transform raw data into reliable, analytics-ready insights.
+
+My primary interests lie in **Data Engineering**, **Cloud Data Platforms**, **Analytics Engineering**, and **Business Intelligence**, with hands-on experience building end-to-end ELT pipelines, real-time streaming systems, and modern analytical data warehouses.
+
+Currently seeking opportunities as a **Data Engineer**, **Data & Analytics Engineer**, or **Business Intelligence Engineer**.
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Core Competencies
 
-### Data Engineering
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge)
+
+### Cloud & Data Platforms
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apachekafka)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow)
-
-### Analytics
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-
-### Software Engineering
-
-![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-
----
-
-## 📌 Featured Projects
+![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge)
+![Azure Synapse](https://img.shields.io/badge/Azure_Synapse-0078D4?style=for-the-badge)
 
 ### Data Engineering
 
-🔹 [Azure E-Commerce Data Pipeline](https://github.com/Atharva-512/azure-ecommerce-data-pipeline)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apachekafka)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-🔹 [Retail Supply Chain Data Pipeline](https://github.com/Atharva-512/retail-supply-chain-pipeline)
+### Databases
 
-🔹 [Real-Time Financial Monitoring System](https://github.com/Atharva-512/real-time-financial-monitoring)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 
-### Data Analytics
+### Analytics & BI
 
-🔹 [Retail Sales Analytics](https://github.com/Atharva-512/retail-sales-analytics)
-
-🔹 [Customer Segmentation Analytics](https://github.com/Atharva-512/customer-segmentation-analytics)
-
-🔹 [HR Workforce Analytics](https://github.com/Atharva-512/hr-workforce-analytics)
-
-### Software Engineering
-
-🔹 [Smart Incident Management System](https://github.com/Atharva-512/smart-incident-management-system)
-
-🔹 [AI Interview Prep Resume Analyzer](https://github.com/Atharva-512/ai-interview-prep-resume-analyzer)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau)
 
 ---
 
-## 📊 GitHub Statistics
+# ⭐ Featured Projects
+
+## 🍽 Restaurant POS ELT Platform
+
+End-to-end ELT platform implementing a Medallion Architecture (Bronze → Silver → Gold), DuckDB analytical warehouse, automated reporting layer, and interactive Power BI dashboards for restaurant operations.
+
+**Tech Stack:** Python • SQL • DuckDB • Docker • Power BI
+
+🔗 https://github.com/Atharva-512/restaurant-pos-elt-pipeline
+
+---
+
+## ☁ Azure E-Commerce Data Pipeline
+
+Cloud-native ELT pipeline built using Azure Data Factory, Azure Databricks, ADLS Gen2, and Azure Synapse Analytics for scalable batch data processing.
+
+🔗 https://github.com/Atharva-512/azure-ecommerce-data-pipeline
+
+---
+
+## ⚡ Real-Time Financial Transaction Monitoring
+
+Real-time streaming data platform using Apache Kafka and Spark Structured Streaming to process and monitor financial transactions with low-latency analytics.
+
+🔗 https://github.com/Atharva-512/real-time-financial-monitoring
+
+---
+
+## 🚚 Retail Supply Chain Data Pipeline
+
+Modern cloud-based data pipeline for processing retail supply chain data, implementing scalable ingestion, transformation, and analytical reporting.
+
+🔗 https://github.com/Atharva-512/retail-supply-chain-pipeline
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Atharva-512&show_icons=true&theme=tokyonight"/>
@@ -94,25 +115,26 @@ Building scalable ETL/ELT pipelines, cloud-native data platforms and real-time a
 
 ---
 
-## 🎯 2026 Goals
+# 🎯 Current Focus
 
-- Secure a Full-Time Data Engineering Role
-- Master Azure Data Platform Services
-- Build Production-Ready Data Pipelines
-- Deepen Expertise in Databricks & Apache Spark
-- Contribute to Open Source Projects
-- Strengthen Real-Time Streaming Architecture Skills
+- Designing scalable cloud-native data platforms
+- Azure Data Engineering
+- Apache Spark & Distributed Data Processing
+- Modern ELT Architecture
+- Analytics Engineering & Business Intelligence
+- Production-ready Data Pipelines
 
 ---
 
-## 🎓 Education
+# 🎓 Education
 
-**Bachelor of Engineering (Computer Engineering)**  
+**Bachelor of Engineering (Computer Engineering)**
+
 Dhole Patil College of Engineering, Pune
 
 ---
 
-## 🤝 Connect With Me
+# 🤝 Connect With Me
 
 📧 **Email**  
 atharvakorwar51237@gmail.com
@@ -125,4 +147,6 @@ Pune, Maharashtra, India
 
 ---
 
-> Turning data into scalable systems, meaningful insights and business impact.
+<p align="center">
+<i>"Building scalable data platforms that transform raw data into reliable business insights."</i>
+</p>
