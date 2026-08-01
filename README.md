@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Atharva%20R.%20Korwar&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer&descAlignY=58&descSize=22" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=210&section=header&text=Atharva%20R.%20Korwar&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Engineer%20%7C%20Analytics%20Engineer%20%E2%80%94%20Building%20Modern%20Data%20Platforms&descAlignY=58&descSize=17" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=2C5364&center=true&vCenter=true&width=600&lines=Cloud-Native+ELT+Pipelines;Medallion+Architecture+%7C+Bronze+%E2%86%92+Silver+%E2%86%92+Gold;Star-Schema+Data+Warehousing;Analytics+Engineering+%2B+Business+Intelligence" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=1000&color=2C5364&center=true&vCenter=true&width=650&lines=Building+Cloud-Native+Data+Platforms;Engineering+Reliable+ELT+Pipelines;Designing+Modern+Data+Warehouses;Distributed+Data+Processing;Azure+%C2%B7+Databricks+%C2%B7+Spark+%C2%B7+SQL;Analytics+Engineering;Turning+Raw+Data+Into+Trusted+Insights" alt="Typing SVG" />
 
 <br/>
 
@@ -21,11 +21,27 @@
 
 ## About
 
-I build the layer between raw data and business decisions — ELT pipelines that ingest reliably, warehouses modeled around how the business actually asks questions, and reporting layers people open every day.
+I build the systems that sit between raw data and business decisions — pipelines that ingest reliably, warehouses modeled around how the business actually asks questions, and reporting layers that hold up under real usage.
 
-My work follows a consistent pattern: Bronze → Silver → Gold medallion pipelines, star-schema dimensional models, and Power BI dashboards that surface the numbers that matter. I care about pipelines being idempotent and incremental, not just functional once.
+My work follows a consistent pattern: ingest and clean data through structured ELT stages, model it into star-schema warehouses, and surface it through Power BI dashboards people actually open. I care about pipelines being idempotent and incremental, not pipelines that just work once.
 
-Currently deepening the cloud side of this on Azure — Data Factory, Databricks, and Synapse — while keeping SQL modeling and dashboard design equally sharp.
+Right now I'm deepening the cloud side of this on Azure — Data Factory, Databricks, and Synapse — while keeping SQL modeling, data quality, and dashboard design equally sharp.
+
+<br/>
+
+## Expertise
+
+<div align="center">
+
+![Cloud Data Engineering](https://img.shields.io/badge/Cloud%20Data%20Engineering-0F2027?style=for-the-badge)
+![Analytics Engineering](https://img.shields.io/badge/Analytics%20Engineering-203A43?style=for-the-badge)
+![ELT Pipelines](https://img.shields.io/badge/ELT%20Pipelines-2C5364?style=for-the-badge)
+![Distributed Processing](https://img.shields.io/badge/Distributed%20Processing-0F2027?style=for-the-badge)
+![Data Warehousing](https://img.shields.io/badge/Data%20Warehousing-203A43?style=for-the-badge)
+![Data Modeling](https://img.shields.io/badge/Data%20Modeling-2C5364?style=for-the-badge)
+![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-0F2027?style=for-the-badge)
+
+</div>
 
 <br/>
 
@@ -95,7 +111,7 @@ Currently deepening the cloud side of this on Azure — Data Factory, Databricks
 Production-grade, metadata-driven ELT pipeline turning raw restaurant POS reports into an analytics-ready DuckDB warehouse.
 
 **Impact:** Replaces manual report reconciliation with a single automated source of truth for sales performance, operations, and KPI reporting.
-**Architecture:** Medallion (Bronze → Silver → Gold) · Star schema — 3 fact tables, 6 dimension tables, 14 reporting views · Containerized, CI-automated deployment.
+**Architecture:** Bronze → Silver → Gold staged pipeline · Star schema — 3 fact tables, 6 dimension tables, 14 reporting views · Containerized, CI-automated deployment.
 
 `Python` `SQL` `Pandas` `DuckDB` `Apache Parquet` `Power BI` `Docker` `GitHub Actions`
 
@@ -110,7 +126,7 @@ Production-grade, metadata-driven ELT pipeline turning raw restaurant POS report
 Parameterized Azure Data Factory pipelines ingesting 100K+ e-commerce order records into a Databricks-processed, Synapse-served warehouse.
 
 **Impact:** Reliable, low-latency business reporting on order data at scale, with fault-tolerant ingestion from multiple source systems.
-**Architecture:** Medallion architecture on Azure Databricks (PySpark) · Partitioned Synapse SQL views · Fault-tolerant batch ingestion from HTTP APIs & SQL Server into ADLS Gen2.
+**Architecture:** Staged transformation pipeline on Azure Databricks (PySpark) · Partitioned Synapse SQL views · Fault-tolerant batch ingestion from HTTP APIs & SQL Server into ADLS Gen2.
 
 `Azure Data Factory` `ADLS Gen2` `Azure Databricks` `PySpark` `Synapse Analytics` `MongoDB` `Power BI`
 
@@ -143,7 +159,7 @@ SQL and Python-driven analysis of 2,000+ retail transactions, feeding interactiv
 |---|---|
 | Cloud Data Engineering | Azure Data Factory · Azure Databricks · ADLS Gen2 |
 | Data Warehousing | Azure Synapse Analytics · DuckDB · Star Schema Modeling |
-| Distributed Processing | PySpark · Medallion Architecture |
+| Distributed Processing | PySpark · Staged Batch Pipelines |
 | Analytics Engineering | SQL Modeling · Data Quality · Incremental Processing |
 | Business Intelligence | Power BI · Tableau · DAX · KPI Reporting |
 | Pipeline Automation | Docker · GitHub Actions · CI/CD |
@@ -156,8 +172,6 @@ SQL and Python-driven analysis of 2,000+ retail transactions, feeding interactiv
 
 <img src="https://github-readme-stats.vercel.app/api?username=Atharva-512&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=2C5364&icon_color=2C5364&text_color=333333" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva-512&layout=compact&hide_border=true&title_color=2C5364&text_color=333333&langs_count=8" height="165" />
-
-<img src="https://streak-stats.demolab.com?user=Atharva-512&hide_border=true&background=FFFFFF&ring=2C5364&fire=2C5364&currStreakLabel=2C5364" />
 
 </div>
 
@@ -183,15 +197,13 @@ SQL and Python-driven analysis of 2,000+ retail transactions, feeding interactiv
 
 ## Let's Connect
 
-I'm always open to conversations on data engineering, analytics platforms, and cloud architecture.
+Open to conversations on data engineering, analytics platforms, and cloud architecture.
 
 <a href="https://linkedin.com/in/atharvakorwar51237"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:atharvakorwar51237@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
 
-*"Data that isn't trusted isn't used."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=90&section=footer" width="100%"/>
 
 </div>
