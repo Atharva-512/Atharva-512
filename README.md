@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/github-banner.png" alt="Atharva Rahul Korwar Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2F81F7&height=220&section=header&text=Atharva%20Rahul%20Korwar&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Data%20Engineer%20%7C%20Cloud%20%26%20Analytics%20Platforms&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Header banner" />
 
 </div>
 
@@ -89,50 +89,50 @@ I focus on:
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🍽️ Restaurant POS ELT Platform**
+### 🍽️ [Restaurant POS ELT Platform](https://github.com/Atharva-512/restaurant-pos-elt-pipeline)
 
 End-to-end ELT platform implementing Medallion Architecture (Bronze → Silver → Gold), a DuckDB analytical warehouse with star-schema modeling, and interactive Power BI dashboards for restaurant operations.
 
-<a href="https://github.com/Atharva-512/restaurant-pos-elt-pipeline">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Atharva-512&repo=restaurant-pos-elt-pipeline&theme=tokyonight" />
-</a>
+![Language](https://img.shields.io/github/languages/top/Atharva-512/restaurant-pos-elt-pipeline?style=flat-square&color=2F81F7)
+![Stars](https://img.shields.io/github/stars/Atharva-512/restaurant-pos-elt-pipeline?style=flat-square&color=eab308)
+![Last Commit](https://img.shields.io/github/last-commit/Atharva-512/restaurant-pos-elt-pipeline?style=flat-square&color=22c55e)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**☁️ Azure E-Commerce Data Pipeline**
+### ☁️ [Azure E-Commerce Data Pipeline](https://github.com/Atharva-512/azure-ecommerce-data-pipeline)
 
 Cloud-native batch pipeline on Azure Data Factory, Databricks, ADLS Gen2, and Synapse Analytics, engineered for scalable ingestion and transformation.
 
-<a href="https://github.com/Atharva-512/azure-ecommerce-data-pipeline">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Atharva-512&repo=azure-ecommerce-data-pipeline&theme=tokyonight" />
-</a>
+![Language](https://img.shields.io/github/languages/top/Atharva-512/azure-ecommerce-data-pipeline?style=flat-square&color=2F81F7)
+![Stars](https://img.shields.io/github/stars/Atharva-512/azure-ecommerce-data-pipeline?style=flat-square&color=eab308)
+![Last Commit](https://img.shields.io/github/last-commit/Atharva-512/azure-ecommerce-data-pipeline?style=flat-square&color=22c55e)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**⚡ Real-Time Financial Transaction Monitoring**
+### ⚡ [Real-Time Financial Transaction Monitoring](https://github.com/Atharva-512/real-time-financial-monitoring)
 
 Streaming data platform using Kafka and Spark Structured Streaming for low-latency ingestion and monitoring of financial transactions.
 
-<a href="https://github.com/Atharva-512/real-time-financial-monitoring">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Atharva-512&repo=real-time-financial-monitoring&theme=tokyonight" />
-</a>
+![Language](https://img.shields.io/github/languages/top/Atharva-512/real-time-financial-monitoring?style=flat-square&color=2F81F7)
+![Stars](https://img.shields.io/github/stars/Atharva-512/real-time-financial-monitoring?style=flat-square&color=eab308)
+![Last Commit](https://img.shields.io/github/last-commit/Atharva-512/real-time-financial-monitoring?style=flat-square&color=22c55e)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🚚 Retail Supply Chain Data Pipeline**
+### 🚚 [Retail Supply Chain Data Pipeline](https://github.com/Atharva-512/retail-supply-chain-pipeline)
 
 Batch data pipeline for retail supply chain data using PySpark and Airflow, covering ingestion, transformation, and analytical reporting.
 
-<a href="https://github.com/Atharva-512/retail-supply-chain-pipeline">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Atharva-512&repo=retail-supply-chain-pipeline&theme=tokyonight" />
-</a>
+![Language](https://img.shields.io/github/languages/top/Atharva-512/retail-supply-chain-pipeline?style=flat-square&color=2F81F7)
+![Stars](https://img.shields.io/github/stars/Atharva-512/retail-supply-chain-pipeline?style=flat-square&color=eab308)
+![Last Commit](https://img.shields.io/github/last-commit/Atharva-512/retail-supply-chain-pipeline?style=flat-square&color=22c55e)
 
 </td>
 </tr>
@@ -179,12 +179,12 @@ flowchart LR
 ## GitHub Statistics
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Atharva-512&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva-512&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Atharva-512&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva-512&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Atharva-512&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Atharva-512&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -194,6 +194,8 @@ flowchart LR
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Atharva-512&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
+
+> **Note:** stat widgets above are rendered live by third-party services (github-readme-stats / streak-stats) and can occasionally show a broken image on first load due to free-tier rate limits. A hard refresh (or waiting ~30 seconds) usually resolves it once the badges are cached on GitHub's side.
 
 <br/>
 
@@ -220,3 +222,5 @@ flowchart LR
 *"Building scalable data platforms that transform raw data into reliable business insights."*
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:0F172A&height=100&section=footer" width="100%" alt="Footer banner" />
