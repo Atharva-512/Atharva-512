@@ -21,75 +21,16 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3&section=header" width="100%"/>
 
-## `01` &nbsp;💻 Technical Toolbox
+## `01` &nbsp;🧰 Technical Toolbox
 
-<table width="100%">
-<tr>
-<td align="center" style="background-color:#0c4a6e; padding:20px; border-radius:12px;">
+<div align="center">
 
-**Languages**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=python,java&theme=dark" height="50"/>
-&nbsp;
-<img src="https://img.shields.io/badge/SQL-0284C7?style=for-the-badge&logo=postgresql&logoColor=white" height="32"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<table width="100%">
-<tr>
-<td align="center" style="background-color:#075985; padding:20px; border-radius:12px;">
-
-**Cloud & Data Engineering**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=azure,gcp,docker&theme=dark" height="50"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Azure%20Data%20Factory-0EA5E9?style=for-the-badge&logo=microsoftazure&logoColor=white" height="32"/>
-<img src="https://img.shields.io/badge/Databricks-38BDF8?style=for-the-badge&logo=databricks&logoColor=white" height="32"/>
-<img src="https://img.shields.io/badge/PySpark-0284C7?style=for-the-badge&logo=apachespark&logoColor=white" height="32"/>
-<img src="https://img.shields.io/badge/DuckDB-4C1D95?style=for-the-badge&logo=duckdb&logoColor=white" height="32"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<table width="100%">
-<tr>
-<td align="center" style="background-color:#0c4a6e; padding:20px; border-radius:12px;">
-
-**Databases & Warehousing**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" height="50"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Azure%20Synapse-0EA5E9?style=for-the-badge&logo=microsoftazure&logoColor=white" height="32"/>
-<img src="https://img.shields.io/badge/BigQuery-0284C7?style=for-the-badge&logo=googlebigquery&logoColor=white" height="32"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<table width="100%">
-<tr>
-<td align="center" style="background-color:#075985; padding:20px; border-radius:12px;">
-
-**BI, Analytics & DevOps**
-<br/><br/>
-<img src="https://img.shields.io/badge/Power%20BI-38BDF8?style=for-the-badge&logo=powerbi&logoColor=white" height="32"/>
-<img src="https://img.shields.io/badge/Tableau-0EA5E9?style=for-the-badge&logo=tableau&logoColor=white" height="32"/>
-<img src="https://img.shields.io/badge/DAX-0284C7?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="32"/>
-&nbsp;
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,jupyter&theme=dark" height="50"/>
-
-</td>
-</tr>
-</table>
+| | |
+|:---|:---|
+| **Languages** | <img src="https://skillicons.dev/icons?i=python,java&theme=dark" height="40"/> &nbsp; <img src="https://img.shields.io/badge/SQL-0284C7?style=for-the-badge&logo=postgresql&logoColor=white" height="28"/> |
+| **Cloud & Data Engineering** | <img src="https://skillicons.dev/icons?i=azure,gcp,docker&theme=dark" height="40"/> &nbsp; <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0EA5E9?style=for-the-badge&logo=microsoftazure&logoColor=white" height="28"/> <img src="https://img.shields.io/badge/Databricks-38BDF8?style=for-the-badge&logo=databricks&logoColor=white" height="28"/> <img src="https://img.shields.io/badge/PySpark-0284C7?style=for-the-badge&logo=apachespark&logoColor=white" height="28"/> <img src="https://img.shields.io/badge/DuckDB-0369A1?style=for-the-badge&logo=duckdb&logoColor=white" height="28"/> |
+| **Databases & Warehousing** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" height="40"/> &nbsp; <img src="https://img.shields.io/badge/Azure%20Synapse-0EA5E9?style=for-the-badge&logo=microsoftazure&logoColor=white" height="28"/> <img src="https://img.shields.io/badge/BigQuery-0284C7?style=for-the-badge&logo=googlebigquery&logoColor=white" height="28"/> |
+| **BI, Analytics & DevOps** | <img src="https://img.shields.io/badge/Power%20BI-38BDF8?style=for-the-badge&logo=powerbi&logoColor=white" height="28"/> <img src="https://img.shields.io/badge/Tableau-0EA5E9?style=for-the-badge&logo=tableau&logoColor=white" height="28"/> <img src="https://img.shields.io/badge/DAX-0284C7?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="28"/> &nbsp; <img src="https://skillicons.dev/icons?i=git,github,githubactions,jupyter&theme=dark" height="40"/> |
 
 </div>
 
@@ -212,11 +153,6 @@
 ## `05` &nbsp;📊 GitHub Analytics
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Atharva-512&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1e1b4b&title_color=C4B5FD&icon_color=A78BFA&text_color=E9D5FF&count_private=true" height="175" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva-512&layout=compact&theme=tokyonight&hide_border=true&bg_color=1e1b4b&title_color=C4B5FD&text_color=E9D5FF&langs_count=8" height="175" />
-
-<br/><br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Atharva-512&theme=tokyonight" height="200" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Atharva-512&theme=tokyonight" height="200" />
